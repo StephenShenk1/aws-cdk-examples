@@ -1,3 +1,4 @@
 aws-cdk-lib>=2.72.0
 constructs>=10.0.0
 aws_cdk.aws_batch_alpha>=2.72.0a
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
